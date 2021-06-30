@@ -1,0 +1,6 @@
+['remote "model_path"']
+    url = azure://azcontainerformodel1/
+    connection_string = DefaultEndpointsProtocol=https;AccountName=dvcdemoaccount;AccountKey=z5N151CqX68m2mF86aJPc2+NR0zYwQqVfjRh0/GKxvDLD9oHgT2seE3fMI0XdfW7YwRIlLRTJ25tC8Gg+oHsmQ==;EndpointSuffix=core.windows.net
+['remote "data_path"']
+    url = azure://azcontainerfordata1/
+    connection_string = DefaultEndpointsProtocol=https;AccountName=dvcdemoaccount;AccountKey=z5N151CqX68m2mF86aJPc2+NR0zYwQqVfjRh0/GKxvDLD9oHgT2seE3fMI0XdfW7YwRIlLRTJ25tC8Gg+oHsmQ==;EndpointSuffix=core.windows.net
