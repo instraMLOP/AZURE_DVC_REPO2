@@ -1,0 +1,5 @@
+outs:
+- md5: 3b619ce351fe0b7a774511c8774cafb8.dir
+  size: 15
+  nfiles: 1
+  path: specs
