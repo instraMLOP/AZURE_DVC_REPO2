@@ -7,6 +7,10 @@
         {
             "version": 2,
             "commit_hash": "1a779e2"
+        },
+        {
+            "version": 3,
+            "commit_hash": "d751600"
         }
     ]
 }
