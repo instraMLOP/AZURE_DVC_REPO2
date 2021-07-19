@@ -3,6 +3,14 @@
         {
             "version": 1,
             "commit_hash": "3697f00"
+        },
+        {
+            "HAR_SmartphonesDataversion": [
+                {
+                    "version": 2,
+                    "commit_hash": "d598870"
+                }
+            ]
         }
     ]
 }
