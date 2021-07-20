@@ -1,0 +1,12 @@
+{
+    "IndoorMovementDataGitversion": [
+        {
+            "version": 1,
+            "commit_hash": "b19afcf"
+        }
+    ],
+    "type": "demo_type1",
+    "format": "demo_format1",
+    "image_path": "demo_image_path1",
+    "label_path": "demo_label_path1"
+}
