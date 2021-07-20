@@ -3,6 +3,10 @@
         {
             "version": 1,
             "commit_hash": "31ee7c5"
+        },
+        {
+            "version": 2,
+            "commit_hash": "0743d18"
         }
     ],
     "type": "demo_type",
