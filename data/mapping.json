@@ -1,0 +1,12 @@
+{
+    "dataversion": [
+        {
+            "version": 1,
+            "commit_hash": "61ab2e9"
+        }
+    ],
+    "type": "1",
+    "format": "KITTI",
+    "image_path": "image_2",
+    "label_path": "label_2"
+}
