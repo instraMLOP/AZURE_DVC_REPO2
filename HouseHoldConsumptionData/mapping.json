@@ -1,0 +1,12 @@
+{
+    "HouseHoldConsumptionDataversion": [
+        {
+            "version": 1,
+            "commit_hash": "a96cb4a"
+        }
+    ],
+    "type": "demo_type",
+    "format": "demo_format",
+    "image_path": "demo_image_path",
+    "label_path": "demo_label_path"
+}
