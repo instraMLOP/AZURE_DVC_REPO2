@@ -1,0 +1,12 @@
+{
+    "TLTDATA3version": [
+        {
+            "version": 1,
+            "commit_hash": "cfc2631"
+        }
+    ],
+    "type": "demo_type",
+    "format": "demo_format",
+    "image_path": "demo_image_path",
+    "label_path": "demo_label_path"
+}
