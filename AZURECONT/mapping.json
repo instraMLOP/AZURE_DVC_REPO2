@@ -1,0 +1,12 @@
+{
+    "AZURECONTversion": [
+        {
+            "version": 1,
+            "commit_hash": "9363536"
+        }
+    ],
+    "type": "t",
+    "format": "t",
+    "image_path": "t",
+    "label_path": "t"
+}
