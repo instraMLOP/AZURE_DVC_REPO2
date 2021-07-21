@@ -1,0 +1,12 @@
+{
+    "FETCHINTESTversion": [
+        {
+            "version": 1,
+            "commit_hash": "ac7709e"
+        }
+    ],
+    "type": "d",
+    "format": "demo_label_path1",
+    "image_path": "d",
+    "label_path": "d"
+}
