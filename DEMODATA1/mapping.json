@@ -1,0 +1,12 @@
+{
+    "DEMODATA1version": [
+        {
+            "version": 1,
+            "commit_hash": "434e59a"
+        }
+    ],
+    "type": "demo_format",
+    "format": "de",
+    "image_path": "de",
+    "label_path": "de"
+}
