@@ -1,0 +1,9 @@
+{
+    "detectnet_v2version": [
+        {
+            "version": 1,
+            "commit_hash": "2670ef3",
+            "dataset_version": 1
+        }
+    ]
+}
