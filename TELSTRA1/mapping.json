@@ -1,0 +1,12 @@
+{
+    "TELSTRA1version": [
+        {
+            "version": 1,
+            "commit_hash": "42c225b"
+        }
+    ],
+    "type": "t",
+    "format": "t",
+    "image_path": "t",
+    "label_path": "t"
+}
